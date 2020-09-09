@@ -5,17 +5,54 @@
     <title>Galerie</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
+        * {
+            padding: 0px;
+        }
+
+        body {
+            background-color: lightgray;
+            color: rgb(60, 60, 60)
+        }
+
+        .background-white {
+            background-color: white;
+        }
+
+        .title {
+            background-color: #007bff !important;
+            padding: 15px 30px;
+            color: white;
+        }
+
+        .text {
+            padding: 30px;
+        }
+
+        .top-offset {
+            margin-top: 60px;
+        }
+
+        .footer {
+            background-color: #007bff !important;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            height: 150px;
+
+        }
+
+        .no-gutter {
+            margin-right: 0;
+            margin-left: 0;
+        }
+
         .images {
-            max-width: 350px;
-
+            width: 200px;
         }
 
-        .margin {
-            margin-bottom: 20px;
-        }
     </style>
 </head>
-<body style="background-image: url('../images/background/background.jpg'); background-repeat: no-repeat; background-size: cover" class="container">
+<body>
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary position-sticky">
         <a class="navbar-brand" href="#">Navbar</a>
@@ -32,54 +69,33 @@
                     <a class="nav-link" href="galarie.html">Galarie</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="video.html">Videos</a>
+                    <a class="nav-link" href="video.html">Video</a>
                 </li>
             </ul>
         </div>
     </nav>
-</div>
-<div>
-    <div style="margin-top: 50px;" class="row margin">
-        <div class="col-sm-12">
-            <p style="color: white">Mehr Bilder finden Sie <a target="_blank" href="https://www.google.com/search?q=weisse+hai&hl=de&sxsrf=ALeKk03w3F_Y9Z0CQm9WQ7LMzK-4oO8pkg:1599603933527&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiDtfSBzdrrAhWM_KQKHV9tC1EQ_AUoAXoECCQQAw&biw=1920&bih=969">hier</a>.</p>
+    <div class="row top-offset no-gutter">
+        <div class="col-sm-12 background-white" style="padding-left: 0 !important; padding-right: 0 !important;">
+            <div class="title">
+                <h4>Merkmale</h4>
+            </div>
         </div>
-    </div>
-    <div class="row margin">
-        <div class="col-md-4 col-sm-12">
+        <div class="col-md-4 col-sm-12 top-offset">
             <img class="images" src="../images/1.jpg" alt="weisser-hai-1">
         </div>
-        <div class="col-md-4 col-sm-12">
+        <div class="col-md-4 col-sm-12 top-offset">
             <img class="images" src="../images/2.jpg" alt="weisser-hai-2">
-        </div>
-        <div class="col-md-4 col-sm-12">
-            <img class="images" src="../images/3.jpg" alt="weisser-hai-3">
-        </div>
-    </div>
 
-    <div class="row margin">
-        <div class="col-md-4 col-sm-12">
+        </div>
+        <div class="col-md-4 col-sm-12 top-offset">
+            <img class="images" src="../images/3.jpg" alt="weisser-hai-3">
+
+        </div>
+        <div class="col-md-4 col-sm-12 top-offset">
             <img class="images" src="../images/4.jpg" alt="weisser-hai-4">
         </div>
-        <div class="col-md-4 col-sm-12">
-            <img class="images" src="../images/5.jpeg" alt="weisser-hai-5">
-        </div>
-        <div class="col-md-4 col-sm-12">
-            <img class="images" src="../images/6.jpg" alt="weisser-hai-6">
-        </div>
     </div>
-
-    <div class="row margin">
-        <div class="col-md-4 col-sm-12">
-            <img class="images" src="../images/7.jpg" alt="weisser-hai-7">
-        </div>
-        <div class="col-md-4 col-sm-12">
-            <img class="images" src="../images/8.jpg" alt="weisser-hai-8">
-        </div>
-        <div class="col-md-4 col-sm-12">
-            <img class="images" src="../images/9.jpg" alt="weisser-hai-9">
-        </div>
-    </div>
-
 </div>
+
 </body>
 </html>
