@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3e5d97-7ba3-4561-838f-5a5417a5bd5a" name="Default Changelist" comment="" />
+    <list default="true" id="ee3e5d97-7ba3-4561-838f-5a5417a5bd5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/galarie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/shark.mp4" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,10 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yaenu\WebstormProjects\mod-101\videos" />
-      <recent name="C:\Users\yaenu\WebstormProjects\mod-101\images\background" />
-      <recent name="C:\Users\yaenu\WebstormProjects\mod-101\images" />
-      <recent name="C:\Users\yaenu\WebstormProjects\mod-101\templates" />
+      <recent name="$PROJECT_DIR$/aareventures/images" />
+      <recent name="$PROJECT_DIR$/aareventures/images/sliders/partners" />
+      <recent name="$PROJECT_DIR$/aareventures/images/goals" />
+      <recent name="$PROJECT_DIR$/aareventures/images/sliders/startups" />
+      <recent name="$PROJECT_DIR$/aareventures/images/about_us" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,6 +87,9 @@
       <workItem from="1599603359920" duration="906000" />
       <workItem from="1599668150656" duration="9381000" />
       <workItem from="1599688131286" duration="10000" />
+      <workItem from="1599723105669" duration="8208000" />
+      <workItem from="1599732789623" duration="66000" />
+      <workItem from="1599732879222" duration="32785000" />
     </task>
     <servers />
   </component>
@@ -93,5 +113,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="575" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599677322640" />
+    <state x="1018" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599826339792">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1018" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/225.1463.1440.821/0.23.2560.1417@0.23.2560.1417" timestamp="1599826339792" />
+    <state x="1072" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599745816383">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1072" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/225.1463.1440.821/0.23.2560.1417@0.23.2560.1417" timestamp="1599745816383" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1599751916086">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/225.1463.1440.821/0.23.2560.1417@0.23.2560.1417" timestamp="1599751916086" />
   </component>
 </project>
